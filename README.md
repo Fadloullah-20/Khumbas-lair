@@ -1,1 +1,2 @@
-# Khumbas-lair
+# Kumbhakarnas-Lair
+Quick dungeon game.
